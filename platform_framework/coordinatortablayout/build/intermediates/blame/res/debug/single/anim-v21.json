@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

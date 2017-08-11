@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:top="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/ll_bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <com.cnn.android.basemodel.view.main.BottomView
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            top:bottom_paddingBetween="3dp"
+            top:bottom_src="@drawable/classic_selector_tab1"
+            top:bottom_text="@string/classic_tab1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="MissingPrefix" />
+
+        <com.cnn.android.basemodel.view.main.BottomView
+            android:id="@+id/smartlife_icon"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            top:bottom_paddingBetween="3dp"
+            top:bottom_src="@drawable/classic_selector_tab2"
+            top:bottom_text="@string/classic_tab2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="MissingPrefix" />
+
+        <com.cnn.android.basemodel.view.main.BottomView
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            top:bottom_paddingBetween="3dp"
+            top:bottom_src="@drawable/classic_selector_tab3"
+            top:bottom_text="@string/classic_tab3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="MissingPrefix" />
+    </LinearLayout>
+</merge>
+

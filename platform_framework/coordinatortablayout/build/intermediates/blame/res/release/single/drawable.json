@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/sample_footer_loading.png",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/sample_footer_loading.png"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/anim_loading_view.xml",
+        "source": "/Users/nmj/.android/build-cache/2f6a9b14d468e4a14cca2290b8ba58535ad7e9f9/output/res/drawable/anim_loading_view.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/classic_selector_tab1.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/classic_selector_tab1.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/classic_selector_tab4.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/classic_selector_tab4.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/msg_red_shape_l.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/msg_red_shape_l.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/design_ic_visibility.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/nmj/.android/build-cache/8be335e82480bde1288a14e3181f4e8bea927732/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/divider.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/appbarlayout_elevated.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/src/main/res/drawable/appbarlayout_elevated.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/refresh_recycler_header.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/refresh_recycler_header.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/classic_selector_tab3.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/classic_selector_tab3.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/sample_footer_loading_progress.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/selector_edit_clear.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/selector_edit_clear.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/classic_selector_tab2.xml",
+        "source": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/basemodel/build/intermediates/bundles/default/res/drawable/classic_selector_tab2.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/drawable/abc_text_cursor_material.xml"
+    }
+]

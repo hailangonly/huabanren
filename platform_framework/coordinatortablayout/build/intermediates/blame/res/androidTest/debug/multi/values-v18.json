@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/nmj/work/Work/huabanren/huabanren/skate2.0_android-develop/platform_framework/coordinatortablayout/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/nmj/.android/build-cache/f7979b202b0b59f2e705d8747ea2c889af3b3297/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

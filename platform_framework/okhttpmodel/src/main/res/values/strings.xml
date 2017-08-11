@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">okhttpModel</string>
+    <string name="okhttp_network_error">网络错误,请重试!</string>
+    <string name="okhttp_response_error">获取网络数据出错,请重试!</string>
+</resources>
